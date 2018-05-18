@@ -1,9 +1,9 @@
 {
     "config":{
         "chainId":20040901,
-        "homesteadBlock":10000,
-        "eip155Block":1000,
-        "eip158Block":1000
+        "homesteadBlock":1150000,
+        "eip155Block":2675000,
+        "eip158Block":2675000
     },
     "coinbase":"0x0000000000000000000000000000000000000000",
     "difficulty":"0x40000",
